@@ -1,2 +1,6 @@
-# C-Programming
-C programs organized by core concepts such as basics, pointers, structures, union, recursion, file handling, and enums.
+# C Programming
+
+This repository contains C programs organized by core concepts such as
+basics, functions, recursion, file handling, pointers, structures, and enums.
+
+Each folder focuses on one concept with small, clear examples.
